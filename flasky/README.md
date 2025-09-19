@@ -15,3 +15,7 @@ Jim Liu
 ![activity1.4](4-2.png)
 ![activity1.4](4-3.png)
 ![activity1.4](4-4.png)
+
+## Activity 2.4
+![activity2.4](2-4.png)
+![activity2.5](2-5.png)
